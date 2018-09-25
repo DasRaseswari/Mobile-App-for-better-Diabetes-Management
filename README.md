@@ -9,6 +9,8 @@ With its successful implementation, the product will allow diabetic patients to 
 
 This study will create an impact on the sponsor organization and will facilitate the company’s competitiveness in the injection market. This challenge project provided a great opportunity and platform for the candidate to hone multiple technical and leadership skills. It prepared the candidate to assess risks, be responsible, resourceful, develop and improve communication as well as interpersonal skills. It enabled the candidate to connect across various disciplines namely stakeholders, team members, patients and medical advisors.
 
-![ScreenRecording](https://github.com/DasRaseswari/Mobile-App-for-better-Diabetes-Management/blob/master/media/ScreenRecording.MP4)
-      
+![ScreenRecording]()
+ 
+[![]()](https://github.com/DasRaseswari/Mobile-App-for-better-Diabetes-Management/blob/master/media/ScreenRecording.MP4 "Click to play on YouTube.com")
+
     
