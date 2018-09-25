@@ -8,3 +8,7 @@ This paper presents a feasibility study, product definition and the prototype of
 With its successful implementation, the product will allow diabetic patients to accurately capture the insulin doses and take multiple daily injections more confidently. This project can be categorized into two sections. First accomplished task was to develop a technology that allows an insulin syringe to capture the insulin doses. The second was to create a mobile app to store and view the captured data. The data captured by the smart insulin syringe is sent to a mobile device using Bluetooth technology. In production, the mobile app could be designed to analyze the recorded insulin data and alert the patient if it is above the normal range and send reminders to the patient to take insulin at the right time. 
 
 This study will create an impact on the sponsor organization and will facilitate the company’s competitiveness in the injection market. This challenge project provided a great opportunity and platform for the candidate to hone multiple technical and leadership skills. It prepared the candidate to assess risks, be responsible, resourceful, develop and improve communication as well as interpersonal skills. It enabled the candidate to connect across various disciplines namely stakeholders, team members, patients and medical advisors.
+
+![ScreenRecording](https://github.com/DasRaseswari/Mobile-App-for-better-Diabetes-Management/blob/master/media/ScreenRecording.MP4)
+      
+    
