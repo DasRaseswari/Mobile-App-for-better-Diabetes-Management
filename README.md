@@ -11,8 +11,8 @@ Documenting insulin injections in a timely manner is onerous for patients, can b
 * **Integrated development environment (IDE):** XCode 9
 * **Programming Language:** Swift 4
 * **Database:** Core Data, framework provided by Apple for iOS apps
-* **iPhone 6+ (iOS 11 or above) used for testing the app
-* **Core Bluetooth framework for app to interact with BLE device
+* iPhone 6+ (iOS 11 or above) used for testing the app
+* Core Bluetooth framework for app to interact with BLE device
 
 Following diagram shows the high-level architecture of the mobile app.
 
