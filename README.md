@@ -15,7 +15,7 @@ Documenting insulin injections in a timely manner is onerous for patients, can b
 * **Core Bluetooth framework for app to interact with BLE device
 
 Following diagram shows the high-level architecture of the mobile app.
-![classdiagram](https://github.com/DasRaseswari/Mobile-App-for-better-Diabetes-Management/blob/master/media/Passenger.png "Class Diagram"
+![classdiagram](https://github.com/DasRaseswari/Mobile-App-for-better-Diabetes-Management/blob/master/media/Passenger.png "Class Diagram")
 
 The detailed flow with explanation can be veiwed here.
  
