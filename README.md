@@ -18,7 +18,7 @@ Following diagram shows the high-level architecture of the mobile app.
 
 ![classdiagram](https://github.com/DasRaseswari/Mobile-App-for-better-Diabetes-Management/blob/master/media/Passenger.png "Class Diagram")
 
-# Mobile App
+## Project Details
 
 ![Screen1](https://github.com/DasRaseswari/Mobile-App-for-better-Diabetes-Management/blob/master/app/Screen1.png "Mobile App")
 
